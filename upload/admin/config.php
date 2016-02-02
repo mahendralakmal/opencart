@@ -26,6 +26,6 @@ define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '525625');
-define('DB_DATABASE', 'justpartsinc');
+define('DB_DATABASE', 'justparts');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
